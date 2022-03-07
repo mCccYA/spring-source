@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springBeans" />
+        <module name="practice" />
+        <module name="springWebmvc" />
+        <module name="springContextSupport" />
+        <module name="springOxm" />
+        <module name="springAop" />
+        <module name="springExpression" />
+        <module name="springWebflux" />
+        <module name="springMessaging" />
+        <module name="springInstrument" />
+        <module name="springJdbc" />
+        <module name="springOrm" />
+        <module name="springCore" />
+        <module name="springJms" />
+        <module name="springJcl" />
+        <module name="springWeb" />
+        <module name="springTx" />
+        <module name="springContext" />
+        <module name="springWebsocket" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
